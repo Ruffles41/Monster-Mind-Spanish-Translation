@@ -4,7 +4,7 @@ import poke.sexy.SexyState;
 /**
  * Sex sequence for Kecleon
  */
-class KecleonSexyState extends SexyState
+class KecleonSexyState extends SexyState<KecleonWindow>
 {
 	/*
 	 * ................-/-..-/------------------------------------------::...-/-...........:/--------------
